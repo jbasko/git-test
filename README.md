@@ -1,8 +1,8 @@
-git-test
+# git-test
 
- 1. Create a few commits in  master
- 2. Create a develop branch off master
- 3. Create a feature branch off develop
+ 1. Create initial commit in  master.
+ 2. Create a develop branch off master.
+ 3. Create a feature branch off develop.
  4. Do a few commits on the feature branch.
  5. Submit a PR for the feature against develop branch.
  6. Approve the PR, squash and merge into develop.
@@ -13,4 +13,6 @@ git-test
  11. Approve the PR, squash and merge it into the master.
  12. Create a PR to merge master into develop.
  13. Approve the PR and merge (no squash; but also there is no squash needed)
+
+P.S. Maybe this is not what I think it is!
 
